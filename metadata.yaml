@@ -1,0 +1,28 @@
+_repo: The-Burgess-Animal-Book-for-Children_2441
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burgess, Thornton W. (Thornton Waldo)
+    alias: Burgess, Thornton Waldo
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '717'
+    url: http://www.gutenberg.org/2009/agents/717
+    wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2000-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoology -- Juvenile literature'
+- !lcc 'QL'
+- !lcsh 'Animal behavior -- Juvenile literature'
+- GITenberg
+title: The Burgess Animal Book for Children
+url: http://www.gutenberg.org/ebooks/2441
